@@ -1,0 +1,2 @@
+module BeweHelper
+end
